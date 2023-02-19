@@ -1,0 +1,357 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch DataStructure",
+            "request": "launch",
+            "mainClass": "DataStructure",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Conditionaloperator",
+            "request": "launch",
+            "mainClass": "Conditionaloperator",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Assigmentoperator_code_11",
+            "request": "launch",
+            "mainClass": "Assigmentoperator_code_11",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fifth",
+            "request": "launch",
+            "mainClass": "Fifth",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fourth",
+            "request": "launch",
+            "mainClass": "Fourth",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RarionalOperator_code_24",
+            "request": "launch",
+            "mainClass": "RarionalOperator_code_24",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_30",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_30",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_31",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_31",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_32",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_32",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_33",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_33",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_34",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_34",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_If_else_code_35",
+            "request": "launch",
+            "mainClass": "RationalOperator_If_else_code_35",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_code_25",
+            "request": "launch",
+            "mainClass": "RationalOperator_code_25",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_code_26",
+            "request": "launch",
+            "mainClass": "RationalOperator_code_26",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_code_27",
+            "request": "launch",
+            "mainClass": "RationalOperator_code_27",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_code_28",
+            "request": "launch",
+            "mainClass": "RationalOperator_code_28",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch RationalOperator_code_29",
+            "request": "launch",
+            "mainClass": "RationalOperator_code_29",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_12",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_12",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_13",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_13",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_14",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_14",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_15",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_15",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_16",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_16",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_17_shorthand",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_17_shorthand",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_18_shorthand",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_18_shorthand",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_19_shorthand",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_19_shorthand",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_20_shorthand",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_20_shorthand",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Shorthand_operator_code_21_shorthand",
+            "request": "launch",
+            "mainClass": "Shorthand_operator_code_21_shorthand",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Third",
+            "request": "launch",
+            "mainClass": "Third",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_36_boolean",
+            "request": "launch",
+            "mainClass": "code_36_boolean",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_37",
+            "request": "launch",
+            "mainClass": "code_37",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_38",
+            "request": "launch",
+            "mainClass": "code_38",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_39",
+            "request": "launch",
+            "mainClass": "code_39",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_40",
+            "request": "launch",
+            "mainClass": "code_40",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_41",
+            "request": "launch",
+            "mainClass": "code_41",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_42",
+            "request": "launch",
+            "mainClass": "code_42",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_43",
+            "request": "launch",
+            "mainClass": "code_43",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_44",
+            "request": "launch",
+            "mainClass": "code_44",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch code_45",
+            "request": "launch",
+            "mainClass": "code_45",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch eight",
+            "request": "launch",
+            "mainClass": "eight",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch first_code",
+            "request": "launch",
+            "mainClass": "first_code",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch incrementOperator_code_22",
+            "request": "launch",
+            "mainClass": "incrementOperator_code_22",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch incrementOperator_code_23",
+            "request": "launch",
+            "mainClass": "incrementOperator_code_23",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch nine",
+            "request": "launch",
+            "mainClass": "nine",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch pratice",
+            "request": "launch",
+            "mainClass": "pratice",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch printmultipletabel",
+            "request": "launch",
+            "mainClass": "printmultipletabel",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch second",
+            "request": "launch",
+            "mainClass": "second",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch seven",
+            "request": "launch",
+            "mainClass": "seven",
+            "projectName": "Java Code_e21ebed2"
+        },
+        {
+            "type": "java",
+            "name": "Launch sixth",
+            "request": "launch",
+            "mainClass": "sixth",
+            "projectName": "Java Code_e21ebed2"
+        }
+    ]
+}
